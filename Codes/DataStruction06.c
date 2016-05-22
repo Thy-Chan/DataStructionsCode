@@ -1,7 +1,7 @@
 /**
  *lesson:  数据结构课程设计
  *tittle:  题目6:床位分配
- *author:  14级计算机1班陈星
+ *author:  ThyChan
 **/
 #include  <stdio.h>
 #include  <stdlib.h>
